@@ -236,6 +236,15 @@ websites:
       - totp
     doc: https://my.hostus.us/knowledgebase/106
 
+  - name: Ibumu
+    url: https://ibumu.com
+    img: ibumu.png
+    tfa:
+      - totp
+      - sms
+      - hardware
+    doc: https://ibumu.com/clientes/knowledgebase/142/Autenticacion-de-2-factores.html
+
   - name: ICDSoft
     url: https://www.icdsoft.com
     img: icdsoft.png
